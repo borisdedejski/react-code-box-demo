@@ -20,7 +20,7 @@ Props that CodeBox receives are:
 It comes in two variants, it can rather be dark or light. 
 
 ## Example
-  ``
+```
 import React from "react";
 import CodeBox from "react-code-box/dist/index";
 
@@ -69,8 +69,7 @@ const TodoApp = () => {
 };
 
 export default TodoApp;
-`
-``
+```
 
 To test it here you can:
 
