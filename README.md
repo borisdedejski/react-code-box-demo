@@ -71,11 +71,14 @@ const TodoApp = () => {
 export default TodoApp;
 ```
 
-To test it here you can:
+### Test
+1. Clone the repo
+`git clone https://github.com/borisdedejski/react-code-box-demo`
+2. Install dependencies
+`yarn install` 
+3. Start
+`yarn start`
 
-### git clone https://github.com/borisdedejski/react-code-box-demo
-### yarn install 
-### yarn start
-
+### Feel free to contribute as well
 
 **Note: Feel free to contribute
